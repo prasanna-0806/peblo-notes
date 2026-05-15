@@ -38,16 +38,6 @@ The app uses a **unified Next.js** layout: UI pages and REST APIs live in one co
 
 ---
 
-## Screenshots
-
-| Home | Workspace | AI insights | Dashboard |
-|------|-----------|-------------|-----------|
-| *Add `samples/screenshot-home.png`* | *`samples/screenshot-workspace.png`* | *`samples/screenshot-ai.png`* | *`samples/screenshot-dashboard.png`* |
-
-More examples in the [`samples/`](samples/) folder.
-
----
-
 ## Getting started
 
 ### Prerequisites
