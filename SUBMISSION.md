@@ -23,7 +23,7 @@ git init
 git add .
 git commit -m "feat: Peblo collaborative AI notes workspace"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/peblo-notes.git
+git remote add origin https://github.com/prasanna-0806/peblo-notes.git
 git push -u origin main
 ```
 
