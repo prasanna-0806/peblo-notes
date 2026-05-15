@@ -1,0 +1,27 @@
+{
+  "auth_signup": {
+    "request": { "name": "John Doe", "email": "john@example.com", "password": "securepass" },
+    "response": { "user": { "id": "clx123abc", "name": "John Doe", "email": "john@example.com" } }
+  },
+  "ai_generate_summary": {
+    "response": {
+      "summary": "Weekly project planning discussion covering UI mockups and API structure.",
+      "action_items": ["Prepare UI mockups", "Review API structure"],
+      "suggested_title": "Sprint Planning Notes",
+      "provider": "gemini"
+    }
+  },
+  "insights": {
+    "response": {
+      "total_notes": 12,
+      "archived_count": 2,
+      "most_used_tags": [{ "tag": "work", "count": 5 }],
+      "ai_usage": { "total": 8, "this_week": 3 },
+      "weekly_activity": {
+        "notes_edited": 6,
+        "ai_generations": 3,
+        "summary": "6 notes edited and 3 AI generations this week"
+      }
+    }
+  }
+}
