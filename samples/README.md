@@ -1,21 +1,19 @@
-# Sample Outputs (Peblo Submission)
+# Samples
 
-## Included
+This folder contains reference material for the Peblo Notes project.
 
 | File | Description |
 |------|-------------|
-| `sample-api-responses.json` | Example API JSON responses |
-| `database-schema.md` | Database schema summary |
-| `ai-summary-example.md` | Example AI-generated output |
+| [`sample-api-responses.json`](./sample-api-responses.json) | Example JSON from auth, AI, and insights endpoints |
+| [`database-schema.md`](./database-schema.md) | Database tables overview |
+| [`ai-summary-example.md`](./ai-summary-example.md) | Example note input and AI output |
 
-## Screenshots (add before submitting)
+## Screenshots
 
-Place PNG screenshots here:
-
-- `screenshot-home.png` — Landing page
-- `screenshot-workspace.png` — Notes workspace with editor
-- `screenshot-ai.png` — AI summary panel
-- `screenshot-dashboard.png` — Productivity insights
-- `screenshot-shared.png` — Public share page
-
-**How to capture:** Run the app → press `Win + Shift + S` → save into this folder.
+| File | Description |
+|------|-------------|
+| `screenshot-home.png` | Landing page |
+| `screenshot-workspace.png` | Notes workspace |
+| `screenshot-ai.png` | AI summary panel |
+| `screenshot-dashboard.png` | Productivity insights |
+| `screenshot-shared.png` | Public share page |
